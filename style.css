@@ -1,7 +1,8 @@
 
-.carousel-inner::before{
-    background: rgba(0, 0, 0, 0.7);
-}
+
+/* .sliderbtn{
+    margin-bottom: 150px;
+} */
 .third-slider{
     height: 255px;
     width: 600px;
@@ -12,6 +13,11 @@
 .explore{
     margin-top: 150px;
     background-color: rgba(184, 244, 244, 0.071);
+}
+.colorchange{
+    color:skyblue;
+    font-style: italic;
+    font-weight: 700;
 }
 .register{
     margin-top: 150px;
