@@ -1,6 +1,13 @@
+
+.carousel-inner::before{
+    background: rgba(0, 0, 0, 0.7);
+}
 .third-slider{
     height: 255px;
     width: 600px;
+}
+.course{
+    margin-top: 150px;
 }
 .explore{
     margin-top: 150px;
