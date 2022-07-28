@@ -5,9 +5,29 @@
 .explore-bg{
     background-color: rgba(184, 244, 244, 0.071);
 }
+.register{
+    margin-top: 150px;
+}
+.student{
+    margin-top: 150px;
+}
+.studentHead{
+    font-size: 60px;
+}
+.card:hover{
+    background-color: rgba(128, 245, 206, 0.241);
+    transition: .9s;
+}
 
 .question{
     margin-top: 150px;
+}
+.company{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.company:hover{
+    background-color: rgba(186, 239, 239, 0.156);
 }
 footer{
     background-color: black;
